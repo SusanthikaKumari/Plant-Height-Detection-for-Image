@@ -6,19 +6,19 @@ This simple project uses Python and OpenCV to detect the plant 🌱 height in an
 
 ## ⚙️ How it Works
 
- 🖼️ Reads an image
- 🎨 Applies HSV masking for green color
- 📏 Finds all contours
- 🔍 Detects the one with the largest area
- 🟩 Displays bounding box and height
+- 🖼️ Reads an image
+- 🎨 Applies HSV masking for green color
+- 📏 Finds all contours
+- 🔍 Detects the one with the largest area
+- 🟩 Displays bounding box and height
 
 ---
 
 ## 📦 Requirements
 
- 🐍 Python 3.11
- 🧠 NumPy
- 👁️ OpenCV
+- 🐍 Python 3.11
+- 🧠 NumPy
+- 👁️ OpenCV
 
 
 ## 🚀 How to Run The Project
