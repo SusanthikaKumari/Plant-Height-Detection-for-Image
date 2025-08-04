@@ -1,21 +1,35 @@
-# Plant Height Detection using OpenCV (Image processing)
+# 🌿 Plant Height Detection using OpenCV (Image Processing)
 
-This simple project uses Python and OpenCV to detect the tallest plant in an image using color segmentation and contour analysis.
+This simple project uses Python and OpenCV to detect the tallest plant 🌱 in an image using color segmentation and contour analysis.
 
-## How it works
+---
 
-- Reads an image
-- Applies HSV masking for green color
-- Finds all contours
-- Detects the one with the largest area
-- Displays bounding box and height
+## ⚙️ How it Works
 
-## Requirements
+- 🖼️ Reads an image
+- 🎨 Applies HSV masking for green color
+- 📏 Finds all contours
+- 🔍 Detects the one with the largest area
+- 🟩 Displays bounding box and height
 
-- OpenCV
-- NumPy
+---
 
-## How to Run the Project
+## 📦 Requirements
+
+- 🐍 Python 3.x
+- 🧠 NumPy
+- 👁️ OpenCV
+
+
+## 🚀 How to Run The Project
+
+### Run the Jupyter Notebook
+
+Make sure you have Jupyter notebook installed. You can run the notebook with:
+
+```bash
+jupyter notebook
+bash```
 
 ### Run the Python Script (Command Line)
 
@@ -23,11 +37,5 @@ If you're using a `.py` file:
 
 ```bash
 python plant_height_detection.py
-
-### Run the Jupyter Notebook
-
-Make sure you have Jupyter installed. You can run the notebook with:
-
-```bash
-jupyter notebook
+bash```
 
